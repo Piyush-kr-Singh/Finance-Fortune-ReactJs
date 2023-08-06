@@ -1,0 +1,21 @@
+.footers {
+    background-color: black;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    position: absolute;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+/* .accordion-button
+{
+    
+} */
+
+.accordion-button
+{
+    font-weight: 400;
+    font-size: 17px !important;
+}

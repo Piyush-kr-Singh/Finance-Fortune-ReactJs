@@ -1,0 +1,23 @@
+.card{
+    border: 1px solid rgba(0, 0, 0, 0.381);
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.226);
+    border-radius: 12px;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+/* .botton:hover{
+    background-color: aqua !important;
+    color: black !important;
+} */
+
+.ssm:hover{
+    background-color: aqua !important;
+    color: black !important;
+}
+
+/* .btns{
+    background-color: rgba(214, 204, 192, 0);
+} */
